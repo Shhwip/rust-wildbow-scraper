@@ -15,7 +15,7 @@ Automatically scrapes wildbow's web serials and compiles them into ebooks
 
 ## Installation
 
-You'll need [cargo](https://github.com/rust-lang/cargo) installed. Run:
+You'll need [rust](https://www.rust-lang.org/tools/install) installed. Run:
 
 `git clone https://github.com/nicohman/rust-wildbow-scraper.git && cd rust-wildbow-scraper`
 
